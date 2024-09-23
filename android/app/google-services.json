@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1017109530778",
+    "project_id": "flutterauth-3ade4",
+    "storage_bucket": "flutterauth-3ade4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1017109530778:android:dd9d1bcb251101a20df723",
+        "android_client_info": {
+          "package_name": "com.example.flutter_poc_gyroscope"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEj5XVxAVCVdBERA3Sf2MSyMun1RCfFUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
