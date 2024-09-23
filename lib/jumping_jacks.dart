@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_poc_gyroscope/pages/home_page.dart';
+//import 'package:flutter_poc_gyroscope/pages/home_page.dart';
 import 'package:sensors_plus/sensors_plus.dart';
 
 class JumpingJackCheck extends StatefulWidget {
